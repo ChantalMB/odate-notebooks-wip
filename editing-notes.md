@@ -13,3 +13,13 @@
 
 - **Archdata in R**
   - Absolutely bunged, can't retrieve any data bc of cloudflare block
+
+- **LOD and SPARQL**
+  - Python
+    - Simple RDF Example: The only museum I'm able to find with LOD is the [Smithsonian American Art Museum](https://americanart.si.edu/about/lod)
+    - Wikidata: Works generally, but diagrams can't be drawn since `sparqlkernel` is so out of date it's using obsolete code
+    - Nomisma works! But stopped using Jena so I had to do some really imprecise "around Athens" math lol
+  - R
+    - SPARQL library was archived in 2022 after not being updated for 10yrs
+    - `glitter` only "current" SPARQL library but also hasn't been updated in 3yrs --> doesn't seem to work with current version of R
+
