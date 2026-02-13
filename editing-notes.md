@@ -23,3 +23,8 @@
     - SPARQL library was archived in 2022 after not being updated for 10yrs
     - `glitter` only "current" SPARQL library but also hasn't been updated in 3yrs --> doesn't seem to work with current version of R
 
+- **Spatial Arch**
+  - Data & maps works but need to test on py 3.6 + geopandas 0.4.0 to confirm results
+    - Same w linlithgow
+  - Used this process to get gdal working locally: https://gis.stackexchange.com/questions/481539/install-gdal-into-conda-environment
+  - 
