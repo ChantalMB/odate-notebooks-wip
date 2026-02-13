@@ -27,4 +27,9 @@
   - Data & maps works but need to test on py 3.6 + geopandas 0.4.0 to confirm results
     - Same w linlithgow
   - Used this process to get gdal working locally: https://gis.stackexchange.com/questions/481539/install-gdal-into-conda-environment
-  - 
+
+- **Scraping**
+  - PAS suffering strikes again
+  - Updated both R activities but both require R Studio to work...
+
+
